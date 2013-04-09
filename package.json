@@ -1,0 +1,11 @@
+{
+  "name": "wintersmith-haml",
+  "version": "0.0.3",
+  "author": "Zachary Schneider <sigil.66@gmail.com>",
+  "description": "haml plugin for witnersmith",
+  "license": "MIT",
+  "dependencies": {
+    "haml": ">= 0.4.3",
+    "coffee-script": "1.3.x"
+  }
+}
